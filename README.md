@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Daniil
 - :mortar_board: I'm studying at Moscow Institute of Physics and Technology
-- 🌱 Right now I'm highly interested in Algebra and Geometry, Combinatorics as a mathematician fields and Rust, C++, Web as a programmer
+- 🌱 Right now I'm highly interested in Algebra and Geometry, Combinatorics as a mathematician and Rust, C++, Web as a programmer
 - 📫 You can use the e-mail on this page to contact with me
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanMax03&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
