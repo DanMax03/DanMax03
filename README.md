@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Daniil
-- :mortar_board: I'm studying at MIPT
+- :mortar_board: I'm studying at Moscow Institute of Physics and Technologies
 - 🌱 Right now I'm highly interested in Algebra and Geometry, Combinatorics as a mathematician and Rust, C++, Web as a programmer
 - 📫 You can use the e-mail on this page to contact with me
 
